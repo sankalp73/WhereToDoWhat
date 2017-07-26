@@ -1,0 +1,3 @@
+MainPackage=C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\bin\Debug\WhereToDoWhat_1.0.0.32_AnyCPU_Debug.appx
+SymbolPackage=C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\AppPackages\WhereToDoWhat_1.0.0.32_Debug_Test\WhereToDoWhat_1.0.0.32_AnyCPU_Debug.appxsym
+ResourcePack=C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\bin\Debug\WhereToDoWhat_1.0.0.32_scale-100.appx

@@ -1,0 +1,3 @@
+MainPackage=C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\bin\ARM\Debug\WhereToDoWhat_1.0.0.22_ARM_Debug.appx
+SymbolPackage=C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\AppPackages\WhereToDoWhat_1.0.0.22_Debug_Test\WhereToDoWhat_1.0.0.22_ARM_Debug.appxsym
+ResourcePack=C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\bin\ARM\Debug\WhereToDoWhat_1.0.0.22_scale-100.appx

@@ -1,0 +1,111 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\WhereToDoWhat\WhereToDoWhat\obj\Debug\App.g.i.cs
+c:\users\lenovo\documents\visual studio 2015\Projects\WhereToDoWhat\WhereToDoWhat\obj\Debug\App.g.cs
+c:\users\lenovo\documents\visual studio 2015\Projects\WhereToDoWhat\WhereToDoWhat\obj\Debug\MainPage.g.i.cs
+c:\users\lenovo\documents\visual studio 2015\Projects\WhereToDoWhat\WhereToDoWhat\obj\Debug\MainPage.g.cs
+c:\users\lenovo\documents\visual studio 2015\Projects\WhereToDoWhat\WhereToDoWhat\obj\Debug\XamlTypeInfo.g.cs
+c:\users\lenovo\documents\visual studio 2015\Projects\WhereToDoWhat\WhereToDoWhat\obj\Debug\App.xaml
+c:\users\lenovo\documents\visual studio 2015\Projects\WhereToDoWhat\WhereToDoWhat\obj\Debug\App.xbf
+c:\users\lenovo\documents\visual studio 2015\Projects\WhereToDoWhat\WhereToDoWhat\obj\Debug\XamlSaveStateFile.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\WhereToDoWhat\WhereToDoWhat\obj\Debug\MainPage.xaml
+c:\users\lenovo\documents\visual studio 2015\Projects\WhereToDoWhat\WhereToDoWhat\obj\Debug\MainPage.xbf
+c:\users\lenovo\documents\visual studio 2015\Projects\WhereToDoWhat\WhereToDoWhat\bin\Debug\App.xbf
+c:\users\lenovo\documents\visual studio 2015\Projects\WhereToDoWhat\WhereToDoWhat\bin\Debug\MainPage.xbf
+c:\users\lenovo\documents\visual studio 2015\Projects\WhereToDoWhat\WhereToDoWhat\bin\Debug\WhereToDoWhat.xr.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\WhereToDoWhat\WhereToDoWhat\bin\Debug\WhereToDoWhat.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\WhereToDoWhat\WhereToDoWhat\bin\Debug\WhereToDoWhat.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\WhereToDoWhat\WhereToDoWhat\bin\Debug\resources.pri
+c:\users\lenovo\documents\visual studio 2015\Projects\WhereToDoWhat\WhereToDoWhat\bin\Debug\AppxManifest.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\WhereToDoWhat\WhereToDoWhat\bin\Debug\WhereToDoWhat.build.appxrecipe
+c:\users\lenovo\documents\visual studio 2015\Projects\WhereToDoWhat\WhereToDoWhat\obj\Debug\WhereToDoWhat.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\WhereToDoWhat\WhereToDoWhat\obj\Debug\WhereToDoWhat.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\WhereToDoWhat\WhereToDoWhat\obj\Debug\priconfig.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\WhereToDoWhat\WhereToDoWhat\obj\Debug\priconfig.xml.intermediate
+c:\users\lenovo\documents\visual studio 2015\Projects\WhereToDoWhat\WhereToDoWhat\obj\Debug\layout.resfiles
+c:\users\lenovo\documents\visual studio 2015\Projects\WhereToDoWhat\WhereToDoWhat\obj\Debug\layout.resfiles.intermediate
+c:\users\lenovo\documents\visual studio 2015\Projects\WhereToDoWhat\WhereToDoWhat\obj\Debug\resources.resfiles
+c:\users\lenovo\documents\visual studio 2015\Projects\WhereToDoWhat\WhereToDoWhat\obj\Debug\resources.resfiles.intermediate
+c:\users\lenovo\documents\visual studio 2015\Projects\WhereToDoWhat\WhereToDoWhat\obj\Debug\pri.resfiles
+c:\users\lenovo\documents\visual studio 2015\Projects\WhereToDoWhat\WhereToDoWhat\obj\Debug\pri.resfiles.intermediate
+c:\users\lenovo\documents\visual studio 2015\Projects\WhereToDoWhat\WhereToDoWhat\obj\Debug\qualifiers.txt
+c:\users\lenovo\documents\visual studio 2015\Projects\WhereToDoWhat\WhereToDoWhat\obj\Debug\qualifiers.txt.intermediate
+c:\users\lenovo\documents\visual studio 2015\Projects\WhereToDoWhat\WhereToDoWhat\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\lenovo\documents\visual studio 2015\Projects\WhereToDoWhat\WhereToDoWhat\obj\Debug\ProjectArchitectures.txt
+c:\users\lenovo\documents\visual studio 2015\Projects\WhereToDoWhat\WhereToDoWhat\bin\Debug\Page2.xbf
+c:\users\lenovo\documents\visual studio 2015\Projects\WhereToDoWhat\WhereToDoWhat\obj\Debug\Page2.g.i.cs
+c:\users\lenovo\documents\visual studio 2015\Projects\WhereToDoWhat\WhereToDoWhat\obj\Debug\Page2.g.cs
+c:\users\lenovo\documents\visual studio 2015\Projects\WhereToDoWhat\WhereToDoWhat\obj\Debug\Page2.xaml
+c:\users\lenovo\documents\visual studio 2015\Projects\WhereToDoWhat\WhereToDoWhat\obj\Debug\Page2.xbf
+F:\WhereToDoWhat\WhereToDoWhat\bin\Debug\App.xbf
+F:\WhereToDoWhat\WhereToDoWhat\bin\Debug\MainPage.xbf
+F:\WhereToDoWhat\WhereToDoWhat\bin\Debug\Page2.xbf
+F:\WhereToDoWhat\WhereToDoWhat\bin\Debug\WhereToDoWhat.xr.xml
+F:\WhereToDoWhat\WhereToDoWhat\bin\Debug\WhereToDoWhat.exe
+F:\WhereToDoWhat\WhereToDoWhat\bin\Debug\WhereToDoWhat.pdb
+F:\WhereToDoWhat\WhereToDoWhat\bin\Debug\resources.pri
+F:\WhereToDoWhat\WhereToDoWhat\bin\Debug\AppxManifest.xml
+F:\WhereToDoWhat\WhereToDoWhat\bin\Debug\WhereToDoWhat.build.appxrecipe
+F:\WhereToDoWhat\WhereToDoWhat\obj\Debug\App.g.i.cs
+F:\WhereToDoWhat\WhereToDoWhat\obj\Debug\App.g.cs
+F:\WhereToDoWhat\WhereToDoWhat\obj\Debug\MainPage.g.i.cs
+F:\WhereToDoWhat\WhereToDoWhat\obj\Debug\MainPage.g.cs
+F:\WhereToDoWhat\WhereToDoWhat\obj\Debug\Page2.g.i.cs
+F:\WhereToDoWhat\WhereToDoWhat\obj\Debug\Page2.g.cs
+F:\WhereToDoWhat\WhereToDoWhat\obj\Debug\XamlTypeInfo.g.cs
+F:\WhereToDoWhat\WhereToDoWhat\obj\Debug\App.xaml
+F:\WhereToDoWhat\WhereToDoWhat\obj\Debug\MainPage.xaml
+F:\WhereToDoWhat\WhereToDoWhat\obj\Debug\App.xbf
+F:\WhereToDoWhat\WhereToDoWhat\obj\Debug\MainPage.xbf
+F:\WhereToDoWhat\WhereToDoWhat\obj\Debug\XamlSaveStateFile.xml
+F:\WhereToDoWhat\WhereToDoWhat\obj\Debug\Page2.xaml
+F:\WhereToDoWhat\WhereToDoWhat\obj\Debug\Page2.xbf
+F:\WhereToDoWhat\WhereToDoWhat\obj\Debug\WhereToDoWhat.exe
+F:\WhereToDoWhat\WhereToDoWhat\obj\Debug\WhereToDoWhat.pdb
+F:\WhereToDoWhat\WhereToDoWhat\obj\Debug\priconfig.xml
+F:\WhereToDoWhat\WhereToDoWhat\obj\Debug\priconfig.xml.intermediate
+F:\WhereToDoWhat\WhereToDoWhat\obj\Debug\layout.resfiles
+F:\WhereToDoWhat\WhereToDoWhat\obj\Debug\layout.resfiles.intermediate
+F:\WhereToDoWhat\WhereToDoWhat\obj\Debug\resources.resfiles
+F:\WhereToDoWhat\WhereToDoWhat\obj\Debug\resources.resfiles.intermediate
+F:\WhereToDoWhat\WhereToDoWhat\obj\Debug\pri.resfiles
+F:\WhereToDoWhat\WhereToDoWhat\obj\Debug\pri.resfiles.intermediate
+F:\WhereToDoWhat\WhereToDoWhat\obj\Debug\qualifiers.txt
+F:\WhereToDoWhat\WhereToDoWhat\obj\Debug\qualifiers.txt.intermediate
+F:\WhereToDoWhat\WhereToDoWhat\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\WhereToDoWhat\WhereToDoWhat\obj\Debug\ProjectArchitectures.txt
+C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\bin\Debug\App.xbf
+C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\bin\Debug\MainPage.xbf
+C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\bin\Debug\Page2.xbf
+C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\bin\Debug\WhereToDoWhat.xr.xml
+C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\bin\Debug\WhereToDoWhat.exe
+C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\bin\Debug\WhereToDoWhat.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\bin\Debug\resources.pri
+C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\bin\Debug\AppxManifest.xml
+C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\bin\Debug\WhereToDoWhat.build.appxrecipe
+C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\App.g.i.cs
+C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\App.g.cs
+C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\MainPage.g.i.cs
+C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\MainPage.g.cs
+C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\Page2.g.i.cs
+C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\Page2.g.cs
+C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\App.xaml
+C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\MainPage.xaml
+C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\Page2.xaml
+C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\App.xbf
+C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\MainPage.xbf
+C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\Page2.xbf
+C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\WhereToDoWhat.exe
+C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\WhereToDoWhat.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\priconfig.xml
+C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\priconfig.xml.intermediate
+C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\layout.resfiles
+C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\layout.resfiles.intermediate
+C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\resources.resfiles
+C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\resources.resfiles.intermediate
+C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\pri.resfiles
+C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\pri.resfiles.intermediate
+C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\qualifiers.txt
+C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\ProjectArchitectures.txt

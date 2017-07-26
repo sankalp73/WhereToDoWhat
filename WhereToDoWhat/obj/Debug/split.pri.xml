@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="818adf2a-7a17-4fa5-bd83-56c301d8aa6f" version="1.0" primary="true">
+		<Qualifiers>
+			<Scale>240</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://818adf2a-7a17-4fa5-bd83-56c301d8aa6f/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://818adf2a-7a17-4fa5-bd83-56c301d8aa6f/Files/MainPage.xbf">
+				<Candidate type="Path">
+					<Value>MainPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Page2.xbf" uri="ms-resource://818adf2a-7a17-4fa5-bd83-56c301d8aa6f/Files/Page2.xbf">
+				<Candidate type="Path">
+					<Value>Page2.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="WhereToDoWhat.xr.xml" uri="ms-resource://818adf2a-7a17-4fa5-bd83-56c301d8aa6f/Files/WhereToDoWhat.xr.xml">
+				<Candidate type="Path">
+					<Value>WhereToDoWhat.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="BadgeLogo.png" uri="ms-resource://818adf2a-7a17-4fa5-bd83-56c301d8aa6f/Files/Assets/BadgeLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\BadgeLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="do_something-wallpaper-480x800.jpg" uri="ms-resource://818adf2a-7a17-4fa5-bd83-56c301d8aa6f/Files/Assets/do_something-wallpaper-480x800.jpg">
+					<Candidate type="Path">
+						<Value>Assets\do_something-wallpaper-480x800.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Logo.png" uri="ms-resource://818adf2a-7a17-4fa5-bd83-56c301d8aa6f/Files/Assets/Logo.png"/>
+				<NamedResource name="rsz_logoscale-100.png" uri="ms-resource://818adf2a-7a17-4fa5-bd83-56c301d8aa6f/Files/Assets/rsz_logoscale-100.png">
+					<Candidate type="Path">
+						<Value>Assets\rsz_logoscale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="rsz_storelogoscale-240.png" uri="ms-resource://818adf2a-7a17-4fa5-bd83-56c301d8aa6f/Files/Assets/rsz_storelogoscale-240.png">
+					<Candidate type="Path">
+						<Value>Assets\rsz_storelogoscale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="rsz_tumblr_inline_mwl4ybmi1q1r1aqjj.png" uri="ms-resource://818adf2a-7a17-4fa5-bd83-56c301d8aa6f/Files/Assets/rsz_tumblr_inline_mwl4ybmi1q1r1aqjj.png">
+					<Candidate type="Path">
+						<Value>Assets\rsz_tumblr_inline_mwl4ybmi1q1r1aqjj.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://818adf2a-7a17-4fa5-bd83-56c301d8aa6f/Files/Assets/SmallLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://818adf2a-7a17-4fa5-bd83-56c301d8aa6f/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://818adf2a-7a17-4fa5-bd83-56c301d8aa6f/Files/Assets/Square150x150Logo.png">
+					<Candidate type="Path">
+						<Value>Assets\Square150x150Logo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://818adf2a-7a17-4fa5-bd83-56c301d8aa6f/Files/Assets/Square71x71Logo.png">
+					<Candidate type="Path">
+						<Value>Assets\Square71x71Logo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://818adf2a-7a17-4fa5-bd83-56c301d8aa6f/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="WideLogo.png" uri="ms-resource://818adf2a-7a17-4fa5-bd83-56c301d8aa6f/Files/Assets/WideLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\WideLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="wtdw.gif" uri="ms-resource://818adf2a-7a17-4fa5-bd83-56c301d8aa6f/Files/Assets/wtdw.gif">
+					<Candidate type="Path">
+						<Value>Assets\wtdw.gif</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

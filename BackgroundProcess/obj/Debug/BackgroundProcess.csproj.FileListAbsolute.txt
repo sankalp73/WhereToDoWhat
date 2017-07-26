@@ -1,0 +1,3 @@
+C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\BackgroundProcess\obj\Debug\BackgroundProcess.winmd
+C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\BackgroundProcess\obj\Debug\BackgroundProcess.winmdobj
+C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\BackgroundProcess\obj\Debug\BackgroundProcess.compile.pdb

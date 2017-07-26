@@ -1,0 +1,23 @@
+﻿[ResourceMetadata]
+"ResourceDimensions"		"scale-240"
+"ResourceDimensions"		"language-en-us"
+
+[Files]
+"C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\filemap.pri"			"resources.pri"
+"C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\PackageLayout\WhereToDoWhat.xr.xml"			"WhereToDoWhat.xr.xml"
+"C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\PackageLayout\WhereToDoWhat.exe"			"WhereToDoWhat.exe"
+"C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\PackageLayout\Page2.xbf"			"Page2.xbf"
+"C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\PackageLayout\MainPage.xbf"			"MainPage.xbf"
+"C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\PackageLayout\App.xbf"			"App.xbf"
+"C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\PackageLayout\Assets\wtdw.gif"			"Assets\wtdw.gif"
+"C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\PackageLayout\Assets\WideLogo.scale-240.png"			"Assets\WideLogo.scale-240.png"
+"C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\PackageLayout\Assets\StoreLogo.scale-240.png"			"Assets\StoreLogo.scale-240.png"
+"C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\PackageLayout\Assets\Square71x71Logo.png"			"Assets\Square71x71Logo.png"
+"C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\PackageLayout\Assets\Square150x150Logo.png"			"Assets\Square150x150Logo.png"
+"C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\PackageLayout\Assets\SplashScreen.scale-240.png"			"Assets\SplashScreen.scale-240.png"
+"C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\PackageLayout\Assets\SmallLogo.scale-240.png"			"Assets\SmallLogo.scale-240.png"
+"C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\PackageLayout\Assets\rsz_tumblr_inline_mwl4ybmi1q1r1aqjj.png"			"Assets\rsz_tumblr_inline_mwl4ybmi1q1r1aqjj.png"
+"C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\PackageLayout\Assets\rsz_storelogoscale-240.png"			"Assets\rsz_storelogoscale-240.png"
+"C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\PackageLayout\Assets\rsz_logoscale-100.png"			"Assets\rsz_logoscale-100.png"
+"C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\PackageLayout\Assets\do_something-wallpaper-480x800.jpg"			"Assets\do_something-wallpaper-480x800.jpg"
+"C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\Debug\PackageLayout\Assets\BadgeLogo.scale-240.png"			"Assets\BadgeLogo.scale-240.png"

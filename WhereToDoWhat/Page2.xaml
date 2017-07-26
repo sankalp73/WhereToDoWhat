@@ -1,0 +1,95 @@
+﻿<Page
+    x:Class="WhereToDoWhat.Page2"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WhereToDoWhat"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Page.BottomAppBar>
+        <CommandBar>
+            <AppBarButton 
+                Icon="Back" 
+                Label="Back"
+                Name="Back" 
+                Click="Back_Click"/>
+
+        </CommandBar>
+    </Page.BottomAppBar>
+
+    <Grid Background="#2A2A2A">
+        <Image Source="Assets/wtdw.gif" Margin="310,0,0,512" />
+        <TextBox 
+            x:Name="notifyTextBox" 
+            HorizontalAlignment="Left" 
+            Margin="23,122,0,0" 
+            TextWrapping="Wrap" 
+            VerticalAlignment="Top" 
+            Height="38" 
+            Width="347" 
+            RenderTransformOrigin="0.53,1.826" />
+        <TextBlock 
+            x:Name="textBlock1" 
+            HorizontalAlignment="Left" 
+            TextWrapping="Wrap" 
+            Text="Enter the notification message" 
+            FontSize="30"
+            VerticalAlignment="Top" 
+            Height="79" Width="347" 
+            RenderTransformOrigin="0.931,0.866" 
+            Margin="23,22,0,0"/>
+
+        <Button 
+        		x:Name="foreButtton" 
+        		Content="Start Monitoring" 
+        		HorizontalAlignment="Left" 
+        		VerticalAlignment="Stretch" 
+                Margin="50,341,0,165" 
+                Click="foreButtton_Click" 
+                RenderTransformOrigin="1.426,2.953" 
+                FontSize="30"
+                Width="289"/>
+
+
+        <TextBlock 
+            x:Name="textBlock3" 
+            HorizontalAlignment="Left" 
+            Margin="100,444,0,0" 
+            TextWrapping="Wrap" 
+            Text="" 
+            VerticalAlignment="Top" 
+            FontSize="40"
+            Height="95" 
+            Width="213"/>
+        <TextBlock 
+            x:Name="radiusTextBlock" 
+            HorizontalAlignment="Left" 
+            TextWrapping="Wrap" 
+            Text="Enter the geo-radius (m)" 
+            FontSize="30"
+            Margin="23,0,0,323" 
+            Height="58" 
+            VerticalAlignment="Bottom" 
+            Width="347" 
+            RenderTransformOrigin="1.336,1.509"/>
+        <TextBox 
+            x:Name="radiusTextBox" 
+            HorizontalAlignment="Left" 
+            Margin="23,262,0,0" 
+            TextWrapping="Wrap" 
+            Text="" 
+            VerticalAlignment="Top" 
+            Height="45" 
+            Width="347"
+            RenderTransformOrigin="0.856,3.067"/>
+
+
+
+
+
+
+
+
+    </Grid>
+</Page>

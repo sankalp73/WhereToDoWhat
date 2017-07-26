@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LENOVO-PC</Machine>
+    <WindowsUser>Lenovo</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>818adf2a-7a17-4fa5-bd83-56c301d8aa6f</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\obj\x86\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\bin\x86\Debug\WhereToDoWhat.exe">
+      <PackagePath>WhereToDoWhat.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\Assets\BadgeLogo.scale-240.png">
+      <PackagePath>Assets\BadgeLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\Assets\rsz_storelogoscale-240.png">
+      <PackagePath>Assets\rsz_storelogoscale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\Assets\Square150x150Logo.png">
+      <PackagePath>Assets\Square150x150Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\Assets\Square71x71Logo.png">
+      <PackagePath>Assets\Square71x71Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\Assets\wtdw.gif">
+      <PackagePath>Assets\wtdw.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\bin\x86\Debug\WhereToDoWhat.xr.xml">
+      <PackagePath>WhereToDoWhat.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\bin\x86\Debug\Page2.xbf">
+      <PackagePath>Page2.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lenovo\Documents\Visual Studio 2015\WhereToDoWhat1\WhereToDoWhat\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
